@@ -21,7 +21,7 @@ if (
         var img = document.createElement("img");
         img.draggable = false;
         img.src =
-          "https://dashboard.snapcraft.io/site_media/appmedia/2021/02/512x512_Q3PveGU.png";
+          "https://store-images.s-microsoft.com/image/apps.49046.14590360557032091.5972da3f-cebc-43e1-ab2f-7f8dc310fc45.9da6ae81-6d83-49f9-8533-89672c507050";
         img.className =
           "community-button_community-button-icon_1IFvv button_icon_77d8G";
         outerSpan.appendChild(img);
